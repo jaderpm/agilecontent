@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CandidateTesting.JaderMartins.ConvertApp/1.0.0": {
+        "runtime": {
+          "CandidateTesting.JaderMartins.ConvertApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CandidateTesting.JaderMartins.ConvertApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
